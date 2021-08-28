@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crudapp-addcourses/static/css/main.2bea508b.chunk.css",
+    "main.js": "/crudapp-addcourses/static/js/main.282a796f.chunk.js",
+    "main.js.map": "/crudapp-addcourses/static/js/main.282a796f.chunk.js.map",
+    "runtime-main.js": "/crudapp-addcourses/static/js/runtime-main.637ff2f8.js",
+    "runtime-main.js.map": "/crudapp-addcourses/static/js/runtime-main.637ff2f8.js.map",
+    "static/js/2.4dd878a9.chunk.js": "/crudapp-addcourses/static/js/2.4dd878a9.chunk.js",
+    "static/js/2.4dd878a9.chunk.js.map": "/crudapp-addcourses/static/js/2.4dd878a9.chunk.js.map",
+    "static/js/3.fedb7f06.chunk.js": "/crudapp-addcourses/static/js/3.fedb7f06.chunk.js",
+    "static/js/3.fedb7f06.chunk.js.map": "/crudapp-addcourses/static/js/3.fedb7f06.chunk.js.map",
+    "index.html": "/crudapp-addcourses/index.html",
+    "static/css/main.2bea508b.chunk.css.map": "/crudapp-addcourses/static/css/main.2bea508b.chunk.css.map",
+    "static/js/2.4dd878a9.chunk.js.LICENSE.txt": "/crudapp-addcourses/static/js/2.4dd878a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.637ff2f8.js",
+    "static/js/2.4dd878a9.chunk.js",
+    "static/css/main.2bea508b.chunk.css",
+    "static/js/main.282a796f.chunk.js"
+  ]
+}
